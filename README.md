@@ -1,5 +1,5 @@
 # Faye-syeng
-System Engineer | Networking, Security
+System Engineer | Networking, Security, server, storage
 ## Professional Summary
 System Engineer with hands-on experience in enterprise networking, firewall security,
 Linux and Windows server administration, enterprise storage, and data protection
